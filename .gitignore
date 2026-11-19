@@ -1,0 +1,16 @@
+# Compiled binaries and release packages (published via GitHub Releases)
+*.exe
+*.dll
+*.pdb
+*.bin
+*.zip
+
+# Design / scratch files
+icon-concepts*.png
+
+# Visual Studio / Editor folders
+.vs/
+bin/
+obj/
+*.user
+*.suo
